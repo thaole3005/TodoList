@@ -1,0 +1,5 @@
+//!c1:
+
+//!c2:
+
+//!logic code trong khối lệnh return của ca;;back function dùng khi unmount 1 component nào đó
